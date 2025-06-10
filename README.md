@@ -1,4 +1,4 @@
-# 📝 Notes App
+# 📝 NoteVibes
 
 A simple and modern note-taking application built with React, TypeScript, Vite, and Tailwind CSS.
 
@@ -30,16 +30,19 @@ cd notevibe
 npm install
 ```
 
-▶️ Running the App
+## ▶️ Running the App
 
 To start the development server:
 
+```bash
 npm run dev
+```
 
-Open http://localhost:5173 in your browser to view the app.
+Open [http://localhost:5173](http://localhost:5173) in your browser to view the app.
 
-📂 Project Structure
+## 📂 Project Structure
 
+```
 src/
 ├── components/       # Reusable UI components
 ├── context/          # Context providers
@@ -49,12 +52,8 @@ src/
 ├── utils/            # Static data and helpers
 ├── App.tsx           # Main application component
 ├── main.tsx          # Entry point
+```
 
-📜 License
+## 📜 License
 
 MIT License
-
-
----
-
-Apakah Anda ingin saya menyimpan file ini ke dalam proyek sebagai `README.md`, atau ada penyesuaian lain yang Anda inginkan terlebih dahulu (seperti nama aplikasi, fitur tambahan, atau cara deployment)?
